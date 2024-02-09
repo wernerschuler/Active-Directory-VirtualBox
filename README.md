@@ -29,3 +29,5 @@ Prerequisits
 8. Add a password for the local admin account
 
 **Note:** Input --> Keyboard to Ctrl + Alt + Delete
+
+9. Change the name of the machine to DC
