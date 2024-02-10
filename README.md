@@ -41,4 +41,8 @@ Prerequisits
     - Check 'Skip Unattended Installation'
     - I have set 4GB RAM and 2 Processors
 <img src="https://i.imgur.com/dwqhxQu.png" height="50%" width="50%" alt="Performance screen"/>
+
+12. Change the settings of the Windows 10 Machine
+    - System --> Uncheck Floppy
+    - Network --> Change from NAT to Bridged Adapter
       
