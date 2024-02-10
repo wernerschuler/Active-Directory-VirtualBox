@@ -2,7 +2,7 @@
 
 Prerequisits
 --
-- Would reccommend using a device with at least 16GB of RAM, anything below can be very slow.
+- Would recommend using a device with at least 16GB of RAM, anything below can be very slow.
 
 1. Check that your machine has virtualisation enabled
 
@@ -45,4 +45,17 @@ Prerequisits
 12. Change the settings of the Windows 10 Machine
     - System --> Uncheck Floppy
     - Network --> Change from NAT to Bridged Adapter
+   
+13. Start the Windows 10 Machine and finish the installation
+
+14. Once you have reached the screen in the image below, power off and clone the machine
+    
+    <img src="https://i.imgur.com/vD5HX2v.png" height="50%" width="50%" alt="Performance screen"/>
+
+15. Start a Windows 10 machine
+    - Select 'Join Domain instead'
+    - Enter a name and password
+    - Change the name of the machine
+   
+16. Add Active Directory to the Domain controller
       
