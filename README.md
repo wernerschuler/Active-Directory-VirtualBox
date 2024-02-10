@@ -31,3 +31,14 @@ Prerequisits
 **Note:** Input --> Keyboard to Ctrl + Alt + Delete
 
 9. Change the name of the machine to DC
+
+10. Download Windows 10
+    - Search 'Windows 10 evaluation download'
+    - Select 'Download the ISO - Enterprise'
+
+11. Create a Windows 10 machine in VirtualBox
+    - Select the Windows 10 ISO you have just downloaded
+    - Check 'Skip Unattended Installation'
+    - I have set 4GB RAM and 2 Processors
+<img src="https://i.imgur.com/dwqhxQu.png" height="50%" width="50%" alt="Performance screen"/>
+      
