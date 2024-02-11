@@ -58,4 +58,14 @@ Prerequisits
     - Change the name of the machine
    
 16. Add Active Directory to the Domain controller
-      
+    - Add roles and features --> Active Directory Domain Services
+    - Promote this server to a domain controller
+    - Add a new forest
+    - Uncheck Create DNS delegation
+   
+17. In Active Directory create a user with admin privileges
+    - Active Directory Users and Computers
+    - Right click --> New --> User
+    - Right click the user --> Properties --> Member of --> Add --> Type Domain admins --> Check Names --> Apply --> OK
+   
+18. Add a computer to the domain
