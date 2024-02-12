@@ -69,3 +69,9 @@ Prerequisits
     - Right click the user --> Properties --> Member of --> Add --> Type Domain admins --> Check Names --> Apply --> OK
    
 18. Add a computer to the domain
+    - System --> Rename this PC (advanced) --> Change --> Domain --> Type domain name --> If get an error change the DNS server to the DC's IP address
+    - Enter the username and password of an account with this access
+    - Computer will restart
+    - Screenshot below shows that Client-1 has been added to the domain
+
+      <img src="https://i.imgur.com/L4LTcP0.png" height="50%" width="50%" alt="Active Directory showing computers in the domain"/>
