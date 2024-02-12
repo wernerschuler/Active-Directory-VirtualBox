@@ -1,6 +1,6 @@
 # Active-Directory-VirtualBox
 
-Prerequisits
+Prerequisites
 --
 - Would recommend using a device with at least 16GB of RAM, anything below can be very slow.
 
