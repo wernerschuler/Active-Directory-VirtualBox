@@ -1,8 +1,17 @@
-# Active-Directory-VirtualBox
+<h1>Active Directory in VirtualBox</h1>
 
-Prerequisites
+Prerequisite
 --
 - Would recommend using a device with at least 16GB of RAM, anything below can be very slow.
+
+Environments and Technologies Used
+--
+- Oracle VirtualBox
+
+Operating Systems Used
+-- 
+- Windows 10
+- Windows Server 2019
 
 1. Check that your machine has virtualisation enabled
 
